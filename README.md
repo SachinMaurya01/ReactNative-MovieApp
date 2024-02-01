@@ -11,3 +11,7 @@
     - npx expo-doctor
     - npx expo install --check ( to upgrade all packages required to create a build)
     ![Movieapp QR](https://github.com/SachinMaurya01/ReactNative-MovieApp/assets/100995198/3226d597-7963-49ac-a060-97719107401e)
+
+
+https://github.com/SachinMaurya01/ReactNative-MovieApp/assets/100995198/f62f006c-c412-425f-b13f-ad7e2281376c
+
